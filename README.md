@@ -1,5 +1,5 @@
 # 🇧🇷 🇨🇦 Novaes  💫
-im currently studying Dart/Flutter <br>initiant Dev <br>I'm aspiring to learn CSS, Java and Kotlin. 
+im currently studying Dart/Flutter <br>I'm a initiant Dev and, i'm aspiring to learn CSS, Java and Kotlin. 
 
 
 # 💻 Tech Stack:
