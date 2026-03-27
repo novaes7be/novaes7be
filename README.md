@@ -1,5 +1,5 @@
 # 🇧🇷 🇨🇦 Novaes 💫
-I'm currently studying Dart/Flutter, HTML, CSS & C++.<br>
+I'm currently studying Dart/Flutter, HTML, CSS, C++ & mainly JAVA focusing in backend and using Spring-Boot.<br>
 I'm an aspiring Dev and planning to learn Java and Kotlin next.
 
 ---
