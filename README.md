@@ -11,6 +11,7 @@ I'm an aspiring Dev and planning to learn Java and Kotlin next.
   <img src="https://cdn.simpleicons.org/html5" width="40" alt="HTML5" style="margin-right:10px; vertical-align:middle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" style="margin-right:10px; vertical-align:middle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" style="margin-right:10px; vertical-align:middle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
 ---
