@@ -65,6 +65,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/novaes7be)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/novaes7be)
 
-![visitors](https://komarev.com/ghpvc/?username=novaes7be&color=6A9FD8&style=flat-square)
-
 </div>
