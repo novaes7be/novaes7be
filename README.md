@@ -4,7 +4,6 @@ div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%2B+Spring+Boot;Building+knowledge+everyday)](https://github.com/novaes7be)
 
-![Profile Views](https://komarev.com/ghpvc/?username=novaes7be&color=6A9FD8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
