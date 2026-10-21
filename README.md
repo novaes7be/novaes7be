@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/novaes7be">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%2B+Spring+Boot;Building+knowledge+everyday" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%2B+Spring+Boot;Building+knowledge+every+day" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,31 +19,55 @@
 
 ---
 
+<h2 align="center">Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/novaes7be/EventFlow">EventFlow</a></h3>
+      Events platform with ticket-batch availability control.<br>
+      <sub>Java · Spring Boot</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/novaes7be/OTP-Project">OTP Project</a></h3>
+      TOTP built from scratch: key, Base32, HMAC and truncation.<br>
+      <sub>Java</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h2 align="center">Skills</h2>
 
-<h4 align="center">Backend Languages</h4>
+<h4 align="center">Backend</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
-  &nbsp;&nbsp;
-</p>
-
-<h4 align="center">Backend Framework</h4>
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" />
+  <br><sub>Java · Spring Boot</sub>
 </p>
 
 <h4 align="center">Mobile</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45" />
+  <br><sub>Flutter · Dart</sub>
 </p>
 
-<h4 align="center">Web</h4>
+<h4 align="center">Web & Others</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
+  <br><sub>HTML · CSS · C++</sub>
+</p>
+
+<h4 align="center">Tools</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45" />
+  <br><sub>Git · Docker · Postman</sub>
 </p>
 
 ---
@@ -53,15 +77,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=novaes7be&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=novaes7be&theme=nightowl&hide_border=true" alt="GitHub Streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=novaes7be&theme=react-dark&hide_border=true" alt="Contribution Graph" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=novaes7be&theme=onestar&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com?user=novaes7be&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 ---
@@ -74,5 +90,11 @@
   </a>
   <a href="https://github.com/novaes7be">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:bernardo@contatodireto.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/novaes.zxz/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
