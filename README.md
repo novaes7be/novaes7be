@@ -11,7 +11,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  <i>Systems Analysis and Development student at <b>Fatec Osasco</b></i>
+  <I>Multiplatform Software Engineering student at <b>Fatec Osasco</b></i>
 </p>
 
 <p align="center">
