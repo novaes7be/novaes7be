@@ -11,10 +11,19 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Hard focused on <b>Java</b> + <b>Spring Boot</b> for backend development<br>
-  Also into <b>Flutter</b> and <b>Dart</b> for mobile<br>
-  Learning <b>HTML</b>, <b>CSS</b> and <b>C++</b> along the way<br>
-  Aspiring Dev: building, breaking and improving daily
+  <i>Systems Analysis and Development student at <b>Fatec Osasco</b></i>
+</p>
+
+<p align="center">
+  ☕ Fully focused on <b>Java</b> + <b>Spring Boot</b> for backend development<br>
+  🐳 Containers with <b>Docker</b> and API testing with <b>Postman</b><br>
+  📱 Exploring <b>Flutter</b> and <b>Dart</b> for mobile<br>
+  🧩 Learning <b>HTML</b>, <b>CSS</b> and <b>C++</b> along the way
+</p>
+
+<p align="center">
+  <b>Building, breaking and improving every day.</b><br>
+  <sub>🔎 Looking for a tech internship opportunity</sub>
 </p>
 
 ---
