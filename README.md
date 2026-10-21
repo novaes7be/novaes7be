@@ -24,8 +24,20 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/novaes7be/EventFlow">EventFlow</a></h3>
-      Events platform with ticket-batch availability control.<br>
+      <h3><a href="https://github.com/novaes7be/RateLimiter">RateLimiter</a></h3>
+      Rate limiting to control request traffic.<br>
+      <sub>Java</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/novaes7be/Biblioteca-API">Biblioteca API</a></h3>
+      REST API for managing a library.<br>
+      <sub>Java · Spring Boot</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/novaes7be/URL--Shorter">URL Shorter</a></h3>
+      Service that shortens long URLs.<br>
       <sub>Java · Spring Boot</sub>
     </td>
     <td width="50%" valign="top">
