@@ -18,7 +18,7 @@
   ☕ Fully focused on <b>Java</b> + <b>Spring Boot</b> for backend development<br>
   🐳 Containers with <b>Docker</b> and API testing with <b>Postman</b><br>
   📱 Exploring <b>Flutter</b> and <b>Dart</b> for mobile<br>
-  🧩 Learning <b>HTML</b>, <b>CSS</b> and <b>C++</b> along the way
+     Learning <b>HTML</b>, <b>CSS</b> and <b>C++</b> along the way
 </p>
 
 <p align="center">
