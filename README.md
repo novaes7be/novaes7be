@@ -22,7 +22,6 @@
 </p>
 
 <p align="center">
-  <b>Building, breaking and improving every day.</b><br>
   <sub>🔎 Looking for a tech internship opportunity</sub>
 </p>
 
