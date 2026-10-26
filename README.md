@@ -1,120 +1,123 @@
-<h1 align="center">🇧🇷 🇨🇦 Bernardo Novaes</h1>
+![Banner](https://capsule-render.vercel.app/api?type=rect&height=150&section=header&text=Bernardo%20Novaes&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:0f172a,100:1d4ed8)
+
+# Bernardo Novaes
+
+**Java Backend Developer | Software Development Student**
+
+Estudante de Desenvolvimento de Software na FATEC, com foco em desenvolvimento backend utilizando Java e Spring Boot. Tenho interesse em construir APIs REST, trabalhar com bancos de dados e desenvolver soluções com código organizado, seguro e escalável.
+
+[![GitHub](https://img.shields.io/badge/GitHub-novaes7be-181717?style=for-the-badge&logo=github)](https://github.com/novaes7be)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bernardo-novaes-05022b3a9/)
+
+---
+
+## About Me
+
+- 🎓 Software Development student at FATEC Osasco.
+- ☕ Focused on Java backend development.
+- 🔧 Studying Spring Boot, REST APIs, JPA and Hibernate.
+- 🐳 Learning containerization and deployment with Docker.
+- 🗄️ Exploring relational and NoSQL databases.
+- 🎯 Looking for opportunities to grow as a backend developer.
+
+---
+
+## Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools and Other Technologies
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/novaes7be">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%2B+Spring+Boot;Building+knowledge+every+day" alt="Typing SVG" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=novaes7be&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=novaes7be&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaes7be&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=novaes7be&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
 
-<h2 align="center">About Me</h2>
+## Featured Projects
 
-<p align="center">
-  <I>Multiplatform Software Engineering student at <b>Fatec Osasco</b></i>
-</p>
+### RateLimiter
 
-<p align="center">
-  ☕ Fully focused on <b>Java</b> + <b>Spring Boot</b> for backend development<br>
-  🐳 Containers with <b>Docker</b> and API testing with <b>Postman</b><br>
-  📱 Exploring <b>Flutter</b> and <b>Dart</b> for mobile<br>
-     Learning <b>HTML</b>, <b>CSS</b> and <b>C++</b> along the way
-</p>
+A project focused on rate-limiting concepts and request control.
 
-<p align="center">
-  <sub>🔎 Looking for a tech internship opportunity</sub>
-</p>
+[View repository](https://github.com/novaes7be/RateLimiter)
 
----
+### Biblioteca API
 
-<h2 align="center">Projects</h2>
+An API project focused on backend development and resource management.
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/novaes7be/RateLimiter">RateLimiter</a></h3>
-      Rate limiting to control request traffic.<br>
-      <sub>Java</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/novaes7be/Biblioteca-API">Biblioteca API</a></h3>
-      REST API for managing a library.<br>
-      <sub>Java · Spring Boot</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/novaes7be/URL--Shorter">URL Shorter</a></h3>
-      Service that shortens long URLs.<br>
-      <sub>Java · Spring Boot</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/novaes7be/OTP-Project">OTP Project</a></h3>
-      TOTP built from scratch: key, Base32, HMAC and truncation.<br>
-      <sub>Java</sub>
-    </td>
-  </tr>
-</table>
+[View repository](https://github.com/novaes7be/Biblioteca-API)
+
+### URL Shortener
+
+A project exploring URL shortening and backend application logic.
+
+[View repository](https://github.com/novaes7be/URL--Shorter)
+
+### OTP Project
+
+A project exploring one-time passwords and authentication-related concepts.
+
+[View repository](https://github.com/novaes7be/OTP-Project)
 
 ---
 
-<h2 align="center">Skills</h2>
+## Currently Learning
 
-<h4 align="center">Backend</h4>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" />
-  <br><sub>Java · Spring Boot</sub>
-</p>
-
-<h4 align="center">Mobile</h4>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45" />
-  <br><sub>Flutter · Dart</sub>
-</p>
-
-<h4 align="center">Web & Others</h4>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
-  <br><sub>HTML · CSS · C++</sub>
-</p>
-
-<h4 align="center">Tools</h4>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45" />
-  <br><sub>Git · Docker · Postman</sub>
-</p>
+- Advanced Java and Object-Oriented Programming.
+- Spring Boot and REST API development.
+- JPA, Hibernate and database modeling.
+- Authentication, authorization and application security.
+- Docker and backend deployment.
+- Data structures, algorithms and software design.
 
 ---
 
-<h2 align="center">Statistics</h2>
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=novaes7be&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=novaes7be&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</p>
+I'm interested in connecting with developers, collaborating on projects and exploring backend development opportunities.
+
+- **GitHub:** [@novaes7be](https://github.com/novaes7be)
+- **LinkedIn:** [Bernardo Novaes](https://www.linkedin.com/in/bernardo-novaes-05022b3a9/)
 
 ---
 
-<h2 align="center">Let's Connect</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=novaes7be&style=flat-square&color=1d4ed8" alt="Profile views" />
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/novaes7be">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/novaes7be">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:bernardo@contatodireto.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/novaes.zxz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <i>Always learning, building and improving.</i>
 </p>
