@@ -1,4 +1,4 @@
-<img src="./assets/novaes7be-profile-banner.svg" width="100%" alt="Bernardo Novaes — Java Backend Developer">
+<img src="./novaes7be-profile-banner.svg" width="100%" alt="Bernardo Novaes — Java Backend Developer">
 
 # Bernardo Novaes
 
