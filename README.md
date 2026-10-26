@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&height=150&section=header&text=Bernardo%20Novaes&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:0f172a,100:1d4ed8)
+<img src="./assets/novaes7be-profile-banner.svg" width="100%" alt="Bernardo Novaes — Java Backend Developer">
 
 # Bernardo Novaes
 
