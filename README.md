@@ -54,16 +54,18 @@ Estudante de Desenvolvimento de Software na FATEC, com foco em desenvolvimento b
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=novaes7be&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=novaes7be&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400"
     alt="GitHub statistics"
   />
+  </p>
+  
+<p align="center">
   <img
-    height="165"
-    src="https://streak-stats.demolab.com?user=novaes7be&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=novaes7be&theme=tokyonight&hide_border=true&timezone=America%2FSao_Paulo"
     alt="GitHub contribution streak"
   />
 </p>
+
 
 <p align="center">
   <img
