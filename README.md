@@ -1,3 +1,4 @@
+
 <img src="./novaes7be-profile-banner.svg" width="100%" alt="Bernardo Novaes — Java Backend Developer">
 
 # Bernardo Novaes
@@ -52,16 +53,23 @@ Estudante de Desenvolvimento de Software na FATEC, com foco em desenvolvimento b
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=novaes7be&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=novaes7be&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=novaes7be&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com?user=novaes7be&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaes7be&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=novaes7be&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=novaes7be&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most used programming languages"
+  />
 </p>
 
 ---
@@ -115,7 +123,10 @@ I'm interested in connecting with developers, collaborating on projects and expl
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=novaes7be&style=flat-square&color=1d4ed8" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=novaes7be&style=flat-square&color=1d4ed8"
+    alt="Profile views"
+  />
 </p>
 
 <p align="center">
