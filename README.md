@@ -7,6 +7,7 @@
 
 Estudante de Desenvolvimento de Software na FATEC, com foco em desenvolvimento backend utilizando Java e Spring Boot. Tenho interesse em construir APIs REST, trabalhar com bancos de dados e desenvolver soluções com código organizado, seguro e escalável.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://bernardonovaes.vercel.app/#home)
 [![GitHub](https://img.shields.io/badge/GitHub-novaes7be-181717?style=for-the-badge&logo=github)](https://github.com/novaes7be)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bernardo-novaes-05022b3a9/)
 
